@@ -2,7 +2,7 @@
 - 👀 I’m interested in trying stuff out.
 - 🌱 I’m currently learning to try stuff out.
 - 💞️ I’m looking to collaborate on anything - provided I'm interested :)
-- 📫 How to reach me: message me by doing a pull request or something with your message.
+- 📫 How to reach me: message me by doing a pull request or something with your message. Looking forward to hearing from you!
 
 Yeah so github told me to make that my header so I said "ok."
 <!---
