@@ -4,7 +4,7 @@
 - 💞️ I’m looking to collaborate on anything interesting to me - do drop me a message!
 - 📫 How to reach me: message me by doing a pull request or something with your message. Looking forward to hearing from you!
 
-Computer programming to me is more than just a hobby. Not one bit in me years ago believed that learning Python would launch me into a galaxy of so many interesting skills to learn within the realm of computing. From practical software development to pure computing theory I've learned various topics from these planents of invaluable knowledge and there's so much more out there that I'm keen to explore and discover.
+Computer programming to me is more than just a hobby. Not one bit in me years ago believed that learning Python would launch me into the galaxt in me years ago believed that learning Python would launch me into the galaxy coy of computing, comprising of so many interesting skills to learn. From practical software development to pure computing theory I've learned various topics from these planets of invaluable knowledge and there's so much more out there that I'm keen to explore and discover.
 
 
 <!---
